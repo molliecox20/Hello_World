@@ -1,4 +1,4 @@
-# Taable of Contents
+# Table of Contents
 - Project Title
 - Description
 - How to Run Program
